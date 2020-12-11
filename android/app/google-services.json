@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "505270206086",
+    "firebase_url": "https://petandur-id.firebaseio.com",
+    "project_id": "petandur-id",
+    "storage_bucket": "petandur-id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505270206086:android:03827d97e4e11bcf831b07",
+        "android_client_info": {
+          "package_name": "com.petandur.id"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505270206086-8ldn8j0qhoegmoc9mubvslh0c9d5qeo0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE1dPdX0nyQiOUd2IK55Z-hW8-c9HaiuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505270206086-8ldn8j0qhoegmoc9mubvslh0c9d5qeo0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
